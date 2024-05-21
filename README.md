@@ -1,12 +1,6 @@
 # Angular 17 -SignalStore-ViewTransition
 
 
-Entendido, puedes optar por una lista más concisa que mencione cada biblioteca junto con su versión correspondiente. Aquí tienes un ejemplo:
-
-markdown
-Copy code
-# Nombre del Proyecto
-
 Este proyecto de Angular utiliza las siguientes bibliotecas principales:
 
 - **@angular/animations** v17.3.0
